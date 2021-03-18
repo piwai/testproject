@@ -1,6 +1,6 @@
 #!/usr/bin/env groovy
 
-//@Library("testlib@v0.1")
+@Library("testlib@v0.1") _
 
 pipeline {
 	agent { node { label 'master' } }
