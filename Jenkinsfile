@@ -1,3 +1,5 @@
+#!/usr/bin/env groovy
+
 @Library("testlib@v0.1")
 
 pipeline {
